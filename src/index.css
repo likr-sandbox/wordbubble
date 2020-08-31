@@ -1,0 +1,9 @@
+svg.chart text {
+  user-select: none;
+}
+
+svg.chart text,
+svg.chart circle,
+svg.chart g {
+  transition: all 0.5s ease-in-out;
+}
