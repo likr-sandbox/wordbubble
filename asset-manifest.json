@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wordbubble/static/css/main.d9639302.chunk.css",
-    "main.js": "/wordbubble/static/js/main.3d79278c.chunk.js",
-    "main.js.map": "/wordbubble/static/js/main.3d79278c.chunk.js.map",
+    "main.js": "/wordbubble/static/js/main.09d3a3ec.chunk.js",
+    "main.js.map": "/wordbubble/static/js/main.09d3a3ec.chunk.js.map",
     "runtime-main.js": "/wordbubble/static/js/runtime-main.d0b027c3.js",
     "runtime-main.js.map": "/wordbubble/static/js/runtime-main.d0b027c3.js.map",
     "static/css/2.3807f13a.chunk.css": "/wordbubble/static/css/2.3807f13a.chunk.css",
     "static/js/2.5a3044ed.chunk.js": "/wordbubble/static/js/2.5a3044ed.chunk.js",
     "static/js/2.5a3044ed.chunk.js.map": "/wordbubble/static/js/2.5a3044ed.chunk.js.map",
     "index.html": "/wordbubble/index.html",
-    "precache-manifest.fd4f08c8a4be480634db7a08e8dd3ee1.js": "/wordbubble/precache-manifest.fd4f08c8a4be480634db7a08e8dd3ee1.js",
+    "precache-manifest.44201ea5bd0e710d47742d4c14bbe8f5.js": "/wordbubble/precache-manifest.44201ea5bd0e710d47742d4c14bbe8f5.js",
     "service-worker.js": "/wordbubble/service-worker.js",
     "static/css/2.3807f13a.chunk.css.map": "/wordbubble/static/css/2.3807f13a.chunk.css.map",
     "static/css/main.d9639302.chunk.css.map": "/wordbubble/static/css/main.d9639302.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3807f13a.chunk.css",
     "static/js/2.5a3044ed.chunk.js",
     "static/css/main.d9639302.chunk.css",
-    "static/js/main.3d79278c.chunk.js"
+    "static/js/main.09d3a3ec.chunk.js"
   ]
 }
