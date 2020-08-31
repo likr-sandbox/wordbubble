@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84bc63632b1bbb298364470b164a7bfc",
+    "revision": "f6a46dbc13ac21231969d19e8d1050df",
     "url": "/wordbubble/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wordbubble/static/css/2.3807f13a.chunk.css"
   },
   {
-    "revision": "7c504cde3dddacb22810",
+    "revision": "f02bcbfe425ff5cacbcd",
     "url": "/wordbubble/static/css/main.d9639302.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wordbubble/static/js/2.5a3044ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c504cde3dddacb22810",
-    "url": "/wordbubble/static/js/main.b1c3bfbd.chunk.js"
+    "revision": "f02bcbfe425ff5cacbcd",
+    "url": "/wordbubble/static/js/main.3d79278c.chunk.js"
   },
   {
     "revision": "18971c822dcf6faf3d0e",
