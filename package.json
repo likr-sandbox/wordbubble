@@ -26,6 +26,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "skmeans": "^0.11.3",
+    "svg-dataurl": "^1.0.0",
     "tsne-js": "^1.0.3"
   },
   "browserslist": {
